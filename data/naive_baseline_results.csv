@@ -1,0 +1,4 @@
+method,rmse,mae,mape
+naive_lastweek（用上週同一天的值）,682.1,428.9,16.26
+naive_yesterday（用昨天的值）,987.9,672.5,26.09
+naive_moving_avg7（過去7天平均）,876.6,741.4,28.09
